@@ -11,7 +11,8 @@
 ## 발표 자료
 
 ### 캐시(Cache)
-<iframe width="640" height="360" src="https://www.youtube.com/embed/c33ojJ7kE7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[프레젠테이션 자료](https://drive.google.com/file/d/1RLv6bHT5QNc8fRf-8zQFrAYn7l6vLlvJ/view)
+
+* [발표 영상](https://www.youtube.com/watch?v=c33ojJ7kE7M)
+* [프레젠테이션 자료](https://drive.google.com/file/d/1RLv6bHT5QNc8fRf-8zQFrAYn7l6vLlvJ/view)
 
 2019년 7월 17일 우아한테크코스 내부에서 캐시(Cache) 개념에 대해 발표한 내용.
