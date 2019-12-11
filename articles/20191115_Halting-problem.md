@@ -1,4 +1,4 @@
-# 정지 문제
+# 정지 문제(Halting problem)
 
 <p align="right">큰곰(조진식, kunggom@gmail.com)<br />2019년 11월 15일</p>
 
