@@ -1,6 +1,6 @@
 # 내가 지금까지 썼던 글들
 
-주로 우아한테크코스 과정 진행 중에 내부 슬랙에 공유했던 글들을 블로그/위키 개설 전까지 저장해두는 곳.
+주로 우아한테크코스 과정 진행 중에 작성했던 글들을 블로그/위키 개설 전까지 저장해두는 곳.
 
 ## 주의사항
 
@@ -17,3 +17,9 @@
 * [프레젠테이션 자료](https://drive.google.com/file/d/1RLv6bHT5QNc8fRf-8zQFrAYn7l6vLlvJ/view)
 
 2019년 7월 17일 우아한테크코스 내부에서 캐시(Cache) 개념에 대해 발표한 내용.
+
+## 우아한테크코스 글쓰기 수업에서 작성했던 글
+
+* [우아한테크코스 한 달 생활기](https://github.com/kunggom/woowa-writing-1/blob/kunggom/level1.md)
+* [우아한테크코스 학습 경험: 변화한 점을 중심으로](https://github.com/kunggom/woowa-writing-1/blob/kunggom/level2.md)
+* [내가 꿈꾸는 프로그래머로서의 삶](https://github.com/kunggom/woowa-writing-1/blob/kunggom/level3.md)
