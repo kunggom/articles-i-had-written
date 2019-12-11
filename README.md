@@ -9,6 +9,13 @@
 * 일부 글은 작성 당시 상황에 맞춰 썼기 때문에, 현 시점에서는 유효하지 않을 수 있다.
 * 슬랙에 공유하였던 글 중 내가 직접 쓰지 않았거나 너무 짧은 글은 제외하였다.
 
+## 슬랙에 공유했던 글
+
+* [AoS와 SoA, 그리고 DOD](https://github.com/kunggom/articles-i-had-written/blob/master/articles/20191022_AoS-SoA-DOD.md)
+* [웹 표준 주도권 싸움의 승리자](https://github.com/kunggom/articles-i-had-written/blob/master/articles/20191030_Web-Standard-War.md)
+* [5G? 그게 대체 뭔데?](https://github.com/kunggom/articles-i-had-written/blob/master/articles/20191107_5G.md)
+* [정지 문제(Halting problem)](https://github.com/kunggom/articles-i-had-written/blob/master/articles/20191115_Halting-problem.md)
+
 ## 발표 자료
 
 ### 캐시(Cache)
