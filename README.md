@@ -30,3 +30,4 @@
 * 레벨 1: [우아한테크코스 한 달 생활기](https://github.com/kunggom/woowa-writing-1/blob/kunggom/level1.md)
 * 레벨 2: [우아한테크코스 학습 경험: 변화한 점을 중심으로](https://github.com/kunggom/woowa-writing-1/blob/kunggom/level2.md)
 * 레벨 3: [내가 꿈꾸는 프로그래머로서의 삶](https://github.com/kunggom/woowa-writing-1/blob/kunggom/level3.md)
+* 레벨 4: [후배들에게 보내는 편지 (a.k.a. 천기누설)](https://github.com/kunggom/woowa-writing-1/blob/kunggom/level4.md)
