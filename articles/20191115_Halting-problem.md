@@ -102,3 +102,4 @@ P. S.
 
 * [완벽한 백신SW 불가능한 이유, 튜링은 알고 있다 - 종료 문제](http://scienceon.hani.co.kr/34696)
 * [MIT 기계공학과 세스 로이드 교수가 말하는 '자유의지에 대한 튜링 테스트'](http://www.joysf.com/4602163)
+* [백준 스페셜 저지 - 배중률교](https://www.acmicpc.net/problem/18828)
